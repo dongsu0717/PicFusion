@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty_string">""</string>
+
+    <!--앨범 리스트 화면-->
+    <string name="album_list">ALBUM LIST</string>
+    <string name="images"> Images</string>
+    <string name="my_album">My Albums</string>
+
+
+    <string name="loading">로딩중...</string>
+    <string name="compressing">사진 압축중...</string>
+    <string name="saving">저장중...</string>
+
+    <!--버튼 이름-->
+    <string name="save">Overlay</string>
+
+    <!--Toast  : Permission-->
+    <string name="denied_permission_toast">권한을 허용해주세요.</string>
+
+    <!--Dialog : Denied Read Permission-->
+    <string name="denied_read_permission_title_dialog">이미지 접근 권한 거부됨</string>
+    <string name="denied_read_permission_text_dialog">이미지 권한을 허용 해주셔야 앱 사용이 가능합니다. <br/>설정에서 직접 허용해주셔야 합니다.</string>
+    <string name="granted">설정</string>
+    <string name="finish">종료</string>
+
+    <!--Dialog : Denied Write Permission-->
+    <string name="denied_write_permission_title_dialog">이미지 저장 권한 거부됨</string>
+    <string name="denied_write_permission_text_dialog">권한을 허용하지 않으면 사진을 저장하실 수 없습니다..</string>
+
+
+</resources>
