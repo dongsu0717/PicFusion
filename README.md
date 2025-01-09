@@ -23,10 +23,6 @@ Android: 이동수
 **Coroutine**
 **Coil**
 <br><br>
-![앨범 리스트](https://github.com/user-attachments/assets/2f791617-4ebe-4f8a-98bc-e7e996f4bd58)
-![포토 리스트 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/d81ea4c9-e908-4608-96b8-68c67dc40943)
-![사진 저장 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/f454912d-a19e-440b-abb9-560e05b5c99f)
-
 
 ## 03. Screen 및 상세 기능
 <table>
