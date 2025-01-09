@@ -16,12 +16,12 @@ Android: 이동수
 <br><br>
 
 ### ***사용 기술***
-**Jetpack Compose**     
-**MVI, Clean Architecture**
-**Multi Module**
-**StateFlow, SharedFlow**
-**Coroutine**
-**Coil**
+**Jetpack Compose**       
+**MVI, Clean Architecture**      
+**Multi Module**        
+**StateFlow, SharedFlow**      
+**Coroutine**      
+**Coil**      
 <br><br>
 
 ## 03. Screen 및 상세 기능
